@@ -6,7 +6,7 @@
 - Leonardo Augusto de Souza Silva
 - Maria Clara Silva Galindo
 
-## Introdução ao AgroCity
+# Introdução ao AgroCity
 
 O **AgroCitro** é um sistema web voltado para o **gerenciamento de atividades agrícolas**, integrando páginas dinâmicas (**HTML, CSS e JavaScript**), um **servidor Node.js** e um **banco de dados SQL** para armazenamento de informações.  
 
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com foco acadêmico, buscando unir **tecnologia e 
 
 ---
 
-## FrontEnd e BackEnd
+# FrontEnd e BackEnd
 
 ## Pré-requisitos
 
