@@ -1,6 +1,10 @@
 # AgroCitro
 
-## Integrantes: Isaac Iuri Alves de Oliveira, Kaio Anthony Alves de Oliveira, Leonardo Augusto de Souza Silva, Maria Clara Silva Galindo
+## Integrantes: 
+- Isaac Iuri Alves de Oliveira
+- Kaio Anthony Alves de Oliveira
+- Leonardo Augusto de Souza Silva
+- Maria Clara Silva Galindo
 
 ## Introdução ao AgroCity
 
@@ -36,10 +40,6 @@ Este projeto foi desenvolvido com foco acadêmico, buscando unir **tecnologia e 
 ---
 
 ## FrontEnd e BackEnd
-
-O **AgroCitro** é um sistema web voltado para o **gerenciamento de atividades agrícolas**, integrando páginas dinâmicas (**HTML, CSS e JavaScript**), um **servidor Node.js** e um **banco de dados SQL** para armazenamento de informações.
-
-Este guia passo a passo cobrirá a configuração do ambiente, a instalação das dependências, a configuração do banco de dados e a inicialização do servidor, garantindo que sua aplicação Node.js e Express funcione corretamente.
 
 ## Pré-requisitos
 
